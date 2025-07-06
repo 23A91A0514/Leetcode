@@ -16,9 +16,11 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/23A91A0514/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
