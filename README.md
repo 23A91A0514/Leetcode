@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/23A91A0514/Leetcode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/23A91A0514/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | [0012-integer-to-roman](https://github.com/23A91A0514/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -35,8 +37,13 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
