@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23A91A0514/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/23A91A0514/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/23A91A0514/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
