@@ -31,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23A91A0514/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/23A91A0514/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
@@ -47,6 +48,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 ## Counting
 |  |
 | ------- |
