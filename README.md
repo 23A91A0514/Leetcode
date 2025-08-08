@@ -54,6 +54,7 @@
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/23A91A0514/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/23A91A0514/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23A91A0514/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/23A91A0514/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/23A91A0514/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
