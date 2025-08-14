@@ -148,4 +148,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/23A91A0514/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
