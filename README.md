@@ -31,6 +31,7 @@
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
 ## Array
 |  |
 | ------- |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/23A91A0514/Leetcode/tree/master/0197-rising-temperature) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
