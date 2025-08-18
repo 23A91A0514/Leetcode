@@ -17,6 +17,7 @@
 | [0012-integer-to-roman](https://github.com/23A91A0514/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/23A91A0514/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -28,6 +29,7 @@
 | [0069-sqrtx](https://github.com/23A91A0514/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -50,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23A91A0514/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/23A91A0514/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
