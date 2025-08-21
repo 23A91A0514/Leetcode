@@ -97,6 +97,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/23A91A0514/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/23A91A0514/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/23A91A0514/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/23A91A0514/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 ## Database
