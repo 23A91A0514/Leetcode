@@ -73,6 +73,7 @@
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/23A91A0514/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/23A91A0514/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/23A91A0514/Leetcode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0110-balanced-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/23A91A0514/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0110-balanced-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/23A91A0514/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
