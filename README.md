@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/23A91A0514/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -182,4 +183,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
