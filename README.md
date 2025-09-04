@@ -40,6 +40,7 @@
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
+| [3830-find-closest-person](https://github.com/23A91A0514/Leetcode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
