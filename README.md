@@ -10,6 +10,7 @@
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/23A91A0514/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/23A91A0514/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/23A91A0514/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
@@ -134,6 +135,7 @@
 | [0112-path-sum](https://github.com/23A91A0514/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/23A91A0514/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0112-path-sum](https://github.com/23A91A0514/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,4 +210,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
