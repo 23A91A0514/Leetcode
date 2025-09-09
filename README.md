@@ -37,6 +37,7 @@
 | [0070-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/23A91A0514/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
