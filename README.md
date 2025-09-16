@@ -45,6 +45,7 @@
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/23A91A0514/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/23A91A0514/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -236,4 +237,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/23A91A0514/Leetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/23A91A0514/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/23A91A0514/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
