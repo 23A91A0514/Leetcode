@@ -31,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/23A91A0514/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/23A91A0514/Leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
@@ -70,6 +71,7 @@
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/23A91A0514/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
@@ -84,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/23A91A0514/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/23A91A0514/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/23A91A0514/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/23A91A0514/Leetcode/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
