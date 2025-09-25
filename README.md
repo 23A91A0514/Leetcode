@@ -127,6 +127,7 @@
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/23A91A0514/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/23A91A0514/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/23A91A0514/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/23A91A0514/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Brainteaser
 |  |
 | ------- |
