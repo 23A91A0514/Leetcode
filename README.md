@@ -16,6 +16,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/23A91A0514/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/23A91A0514/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -36,6 +37,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/23A91A0514/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
@@ -102,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/23A91A0514/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/23A91A0514/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
