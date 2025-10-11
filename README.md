@@ -71,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/23A91A0514/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/23A91A0514/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23A91A0514/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/23A91A0514/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23A91A0514/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/23A91A0514/Leetcode/tree/master/0141-linked-list-cycle) |
