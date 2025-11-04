@@ -136,6 +136,7 @@
 | [0338-counting-bits](https://github.com/23A91A0514/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/23A91A0514/Leetcode/tree/master/0401-binary-watch) |
 ## Counting
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/23A91A0514/Leetcode/tree/master/0401-binary-watch) |
 ## Number Theory
 |  |
 | ------- |
