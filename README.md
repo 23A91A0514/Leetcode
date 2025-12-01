@@ -97,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/23A91A0514/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/23A91A0514/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -129,6 +130,7 @@
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/23A91A0514/Leetcode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
