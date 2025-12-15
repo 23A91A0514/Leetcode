@@ -107,6 +107,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/23A91A0514/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/23A91A0514/Leetcode/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
