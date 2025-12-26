@@ -30,6 +30,7 @@
 | [0482-license-key-formatting](https://github.com/23A91A0514/Leetcode/tree/master/0482-license-key-formatting) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3617-find-the-original-typed-string-i](https://github.com/23A91A0514/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String Matching
 |  |
 | ------- |
