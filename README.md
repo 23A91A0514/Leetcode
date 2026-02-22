@@ -175,6 +175,7 @@
 | [0461-hamming-distance](https://github.com/23A91A0514/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/23A91A0514/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
+| [0868-binary-gap](https://github.com/23A91A0514/Leetcode/tree/master/0868-binary-gap) |
 ## Counting
 |  |
 | ------- |
