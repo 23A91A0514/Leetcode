@@ -72,6 +72,7 @@
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/23A91A0514/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
@@ -104,6 +105,7 @@
 | [0119-pascals-triangle-ii](https://github.com/23A91A0514/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/23A91A0514/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -227,6 +229,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/23A91A0514/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/23A91A0514/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
