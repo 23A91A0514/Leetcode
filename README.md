@@ -35,6 +35,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23A91A0514/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3617-find-the-original-typed-string-i](https://github.com/23A91A0514/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [1470-shuffle-the-array](https://github.com/23A91A0514/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
@@ -340,6 +343,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/23A91A0514/Leetcode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Number Theory
 |  |
 | ------- |
