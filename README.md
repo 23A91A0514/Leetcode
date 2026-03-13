@@ -30,6 +30,7 @@
 | [0482-license-key-formatting](https://github.com/23A91A0514/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/23A91A0514/Leetcode/tree/master/0504-base-7) |
+| [0796-rotate-string](https://github.com/23A91A0514/Leetcode/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -373,6 +374,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/23A91A0514/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/23A91A0514/Leetcode/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
