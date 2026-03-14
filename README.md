@@ -74,6 +74,7 @@
 | [0012-integer-to-roman](https://github.com/23A91A0514/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/23A91A0514/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/23A91A0514/Leetcode/tree/master/0069-sqrtx) |
@@ -105,6 +106,7 @@
 | [0015-3sum](https://github.com/23A91A0514/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/23A91A0514/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/23A91A0514/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23A91A0514/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -387,4 +389,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/23A91A0514/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
