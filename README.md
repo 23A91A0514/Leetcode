@@ -72,6 +72,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0514/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
@@ -232,6 +234,7 @@
 | [0367-valid-perfect-square](https://github.com/23A91A0514/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/23A91A0514/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/23A91A0514/Leetcode/tree/master/0441-arranging-coins) |
+| [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
