@@ -85,6 +85,7 @@
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/23A91A0514/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/23A91A0514/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/23A91A0514/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/23A91A0514/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/23A91A0514/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -383,6 +385,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/23A91A0514/Leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/23A91A0514/Leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
