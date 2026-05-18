@@ -32,6 +32,7 @@
 | [0504-base-7](https://github.com/23A91A0514/Leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/23A91A0514/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/23A91A0514/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/23A91A0514/Leetcode/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -68,6 +69,7 @@
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
+| [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -145,6 +147,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
+| [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/23A91A0514/Leetcode/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
