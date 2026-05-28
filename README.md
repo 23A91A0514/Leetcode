@@ -149,6 +149,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/23A91A0514/Leetcode/tree/master/1390-four-divisors) |
@@ -258,6 +259,7 @@
 | [0338-counting-bits](https://github.com/23A91A0514/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/23A91A0514/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/23A91A0514/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/23A91A0514/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
