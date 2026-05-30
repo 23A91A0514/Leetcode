@@ -148,6 +148,7 @@
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/23A91A0514/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/23A91A0514/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,6 +291,7 @@
 | [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/23A91A0514/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
