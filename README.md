@@ -169,6 +169,7 @@
 | [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0392-is-subsequence](https://github.com/23A91A0514/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/23A91A0514/Leetcode/tree/master/0541-reverse-string-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0514/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -388,6 +392,7 @@
 | [0605-can-place-flowers](https://github.com/23A91A0514/Leetcode/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
 |  |
 | ------- |
