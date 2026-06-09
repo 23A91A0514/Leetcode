@@ -176,6 +176,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/23A91A0514/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -400,6 +401,7 @@
 | [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/23A91A0514/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
