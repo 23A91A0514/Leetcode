@@ -118,6 +118,7 @@
 | [2485-find-the-pivot-integer](https://github.com/23A91A0514/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23A91A0514/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0514/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3830-find-closest-person](https://github.com/23A91A0514/Leetcode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -330,6 +331,7 @@
 | [0226-invert-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0514/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0514/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
