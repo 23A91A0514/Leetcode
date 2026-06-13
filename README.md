@@ -45,6 +45,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0514/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/23A91A0514/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3838-weighted-word-mapping](https://github.com/23A91A0514/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/23A91A0514/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/23A91A0514/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/23A91A0514/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3838-weighted-word-mapping](https://github.com/23A91A0514/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
