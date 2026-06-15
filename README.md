@@ -203,6 +203,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/23A91A0514/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/23A91A0514/Leetcode/tree/master/0541-reverse-string-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -310,6 +311,7 @@
 | [0206-reverse-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
