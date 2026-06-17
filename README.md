@@ -106,6 +106,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/23A91A0514/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/23A91A0514/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/23A91A0514/Leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/23A91A0514/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/23A91A0514/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/23A91A0514/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/23A91A0514/Leetcode/tree/master/0509-fibonacci-number) |
