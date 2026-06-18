@@ -30,6 +30,7 @@
 | [0482-license-key-formatting](https://github.com/23A91A0514/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/23A91A0514/Leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/23A91A0514/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/23A91A0514/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/23A91A0514/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/23A91A0514/Leetcode/tree/master/0709-to-lower-case) |
