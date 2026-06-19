@@ -177,6 +177,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23A91A0514/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -469,6 +470,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/23A91A0514/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/23A91A0514/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
