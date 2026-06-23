@@ -415,6 +415,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/23A91A0514/Leetcode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/23A91A0514/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/23A91A0514/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/23A91A0514/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/23A91A0514/Leetcode/tree/master/0620-not-boring-movies) |
