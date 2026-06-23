@@ -172,6 +172,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0514/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/23A91A0514/Leetcode/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -504,6 +505,7 @@
 | [0048-rotate-image](https://github.com/23A91A0514/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
+| [0766-toeplitz-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting Sort
 |  |
