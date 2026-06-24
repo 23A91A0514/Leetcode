@@ -36,6 +36,7 @@
 | [0709-to-lower-case](https://github.com/23A91A0514/Leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/23A91A0514/Leetcode/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -76,6 +77,7 @@
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/23A91A0514/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -173,6 +175,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/23A91A0514/Leetcode/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
