@@ -164,6 +164,7 @@
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/23A91A0514/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -276,6 +277,7 @@
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/23A91A0514/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/23A91A0514/Leetcode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/23A91A0514/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -513,6 +515,7 @@
 | [0048-rotate-image](https://github.com/23A91A0514/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting Sort
