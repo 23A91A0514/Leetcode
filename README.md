@@ -166,6 +166,7 @@
 | [0495-teemo-attacking](https://github.com/23A91A0514/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/23A91A0514/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
@@ -240,6 +241,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/23A91A0514/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/23A91A0514/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/23A91A0514/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/23A91A0514/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
@@ -547,4 +549,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/23A91A0514/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/23A91A0514/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
