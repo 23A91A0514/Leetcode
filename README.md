@@ -196,6 +196,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23A91A0514/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/23A91A0514/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23A91A0514/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -310,6 +311,7 @@
 | [0441-arranging-coins](https://github.com/23A91A0514/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0514/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -413,6 +415,7 @@
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/23A91A0514/Leetcode/tree/master/0733-flood-fill) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -532,6 +535,7 @@
 | [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/23A91A0514/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting Sort
 |  |
@@ -553,4 +557,9 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/23A91A0514/Leetcode/tree/master/0506-relative-ranks) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
