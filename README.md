@@ -390,6 +390,7 @@
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/23A91A0514/Leetcode/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0514/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0514/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -418,6 +419,7 @@
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/23A91A0514/Leetcode/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0514/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -567,10 +569,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0514/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0514/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
