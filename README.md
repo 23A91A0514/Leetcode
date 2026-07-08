@@ -38,6 +38,7 @@
 | [0696-count-binary-substrings](https://github.com/23A91A0514/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/23A91A0514/Leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/23A91A0514/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/23A91A0514/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -81,6 +82,7 @@
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/23A91A0514/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/23A91A0514/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
