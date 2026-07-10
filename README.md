@@ -34,6 +34,7 @@
 | [0541-reverse-string-ii](https://github.com/23A91A0514/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/23A91A0514/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23A91A0514/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/23A91A0514/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/23A91A0514/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/23A91A0514/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/23A91A0514/Leetcode/tree/master/0709-to-lower-case) |
@@ -80,6 +81,7 @@
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/23A91A0514/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/23A91A0514/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -177,6 +179,7 @@
 | [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/23A91A0514/Leetcode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/23A91A0514/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/23A91A0514/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/23A91A0514/Leetcode/tree/master/0636-exclusive-time-of-functions) |
