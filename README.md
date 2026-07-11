@@ -367,6 +367,7 @@
 | [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/23A91A0514/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/23A91A0514/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/23A91A0514/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -386,6 +387,7 @@
 | [0226-invert-binary-tree](https://github.com/23A91A0514/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/23A91A0514/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0514/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -401,6 +403,7 @@
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/23A91A0514/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/23A91A0514/Leetcode/tree/master/0463-island-perimeter) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/23A91A0514/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/23A91A0514/Leetcode/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0514/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/23A91A0514/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
