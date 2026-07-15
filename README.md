@@ -24,6 +24,7 @@
 | [0392-is-subsequence](https://github.com/23A91A0514/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/23A91A0514/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/23A91A0514/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/23A91A0514/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/23A91A0514/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/23A91A0514/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -121,6 +122,7 @@
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/23A91A0514/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/23A91A0514/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/23A91A0514/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/23A91A0514/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/23A91A0514/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/23A91A0514/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -304,6 +306,7 @@
 | [0054-spiral-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/23A91A0514/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/23A91A0514/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/23A91A0514/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
