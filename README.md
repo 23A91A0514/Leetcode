@@ -111,6 +111,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/23A91A0514/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/23A91A0514/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/23A91A0514/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23A91A0514/Leetcode/tree/master/0228-summary-ranges) |
@@ -510,6 +512,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/23A91A0514/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
 ## Interactive
 |  |
@@ -579,6 +582,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/23A91A0514/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/23A91A0514/Leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/23A91A0514/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Heap (Priority Queue)
