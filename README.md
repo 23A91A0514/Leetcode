@@ -91,6 +91,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0514/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/23A91A0514/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -140,6 +141,7 @@
 | [1390-four-divisors](https://github.com/23A91A0514/Leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/23A91A0514/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/23A91A0514/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -213,6 +215,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/23A91A0514/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23A91A0514/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/23A91A0514/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/23A91A0514/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -308,6 +311,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23A91A0514/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
