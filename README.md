@@ -208,6 +208,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/23A91A0514/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/23A91A0514/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23A91A0514/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -540,6 +541,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/23A91A0514/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/23A91A0514/Leetcode/tree/master/2485-find-the-pivot-integer) |
