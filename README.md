@@ -204,6 +204,7 @@
 | [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/23A91A0514/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1389-create-target-array-in-the-given-order](https://github.com/23A91A0514/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/23A91A0514/Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23A91A0514/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -320,6 +321,7 @@
 | [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/23A91A0514/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/23A91A0514/Leetcode/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/23A91A0514/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23A91A0514/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/23A91A0514/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
