@@ -47,6 +47,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1773-count-items-matching-a-rule](https://github.com/23A91A0514/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23A91A0514/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23A91A0514/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -224,6 +225,7 @@
 | [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/23A91A0514/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/23A91A0514/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/23A91A0514/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23A91A0514/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
