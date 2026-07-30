@@ -181,6 +181,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A0514/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/23A91A0514/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23A91A0514/Leetcode/tree/master/0228-summary-ranges) |
@@ -371,6 +372,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/23A91A0514/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A0514/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/23A91A0514/Leetcode/tree/master/0278-first-bad-version) |
@@ -544,6 +546,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/23A91A0514/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -587,6 +590,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/23A91A0514/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0514/Leetcode/tree/master/1732-find-the-highest-altitude) |
