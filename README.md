@@ -71,6 +71,7 @@
 | [0205-isomorphic-strings](https://github.com/23A91A0514/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/23A91A0514/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/23A91A0514/Leetcode/tree/master/0290-word-pattern) |
@@ -186,6 +187,7 @@
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23A91A0514/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/23A91A0514/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/23A91A0514/Leetcode/tree/master/0283-move-zeroes) |
@@ -293,6 +295,7 @@
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/23A91A0514/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/23A91A0514/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/23A91A0514/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -345,6 +348,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/23A91A0514/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/23A91A0514/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -697,4 +701,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
