@@ -66,6 +66,7 @@
 | [0012-integer-to-roman](https://github.com/23A91A0514/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/23A91A0514/Leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/23A91A0514/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/23A91A0514/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/23A91A0514/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/23A91A0514/Leetcode/tree/master/0169-majority-element) |
@@ -181,6 +182,7 @@
 | [0118-pascals-triangle](https://github.com/23A91A0514/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/23A91A0514/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23A91A0514/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/23A91A0514/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/23A91A0514/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/23A91A0514/Leetcode/tree/master/0137-single-number-ii) |
@@ -685,6 +687,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/23A91A0514/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0514/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/23A91A0514/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
