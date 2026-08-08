@@ -721,4 +721,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/23A91A0514/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
