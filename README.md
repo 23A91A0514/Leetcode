@@ -94,6 +94,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/23A91A0514/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/23A91A0514/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23A91A0514/Leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/23A91A0514/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/23A91A0514/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/23A91A0514/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -228,6 +229,7 @@
 | [0682-baseball-game](https://github.com/23A91A0514/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/23A91A0514/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23A91A0514/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/23A91A0514/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/23A91A0514/Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0514/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -442,6 +444,7 @@
 | [0206-reverse-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/23A91A0514/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23A91A0514/Leetcode/tree/master/0706-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0514/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -590,6 +593,7 @@
 | [0225-implement-stack-using-queues](https://github.com/23A91A0514/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/23A91A0514/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23A91A0514/Leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -738,4 +742,5 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/23A91A0514/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23A91A0514/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
