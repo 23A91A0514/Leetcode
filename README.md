@@ -226,6 +226,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/23A91A0514/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/23A91A0514/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/23A91A0514/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/23A91A0514/Leetcode/tree/master/0705-design-hashset) |
@@ -299,6 +300,7 @@
 | [0392-is-subsequence](https://github.com/23A91A0514/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/23A91A0514/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23A91A0514/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/23A91A0514/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/23A91A0514/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -324,6 +326,7 @@
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/23A91A0514/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -408,6 +411,7 @@
 | [0367-valid-perfect-square](https://github.com/23A91A0514/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/23A91A0514/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/23A91A0514/Leetcode/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0514/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -585,6 +589,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/23A91A0514/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/23A91A0514/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Design
@@ -695,6 +700,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/23A91A0514/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/23A91A0514/Leetcode/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/23A91A0514/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
