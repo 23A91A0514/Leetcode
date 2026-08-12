@@ -11,6 +11,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23A91A0514/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/23A91A0514/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/23A91A0514/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/23A91A0514/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/23A91A0514/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/23A91A0514/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -461,6 +462,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23A91A0514/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/23A91A0514/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/23A91A0514/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23A91A0514/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/23A91A0514/Leetcode/tree/master/0155-min-stack) |
