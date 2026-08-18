@@ -112,6 +112,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23A91A0514/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/23A91A0514/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23A91A0514/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/23A91A0514/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23A91A0514/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -278,6 +279,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/23A91A0514/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23A91A0514/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/23A91A0514/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3582-find-indices-of-stable-mountains](https://github.com/23A91A0514/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
