@@ -190,6 +190,7 @@
 | [0053-maximum-subarray](https://github.com/23A91A0514/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/23A91A0514/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/23A91A0514/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23A91A0514/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/23A91A0514/Leetcode/tree/master/0118-pascals-triangle) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/23A91A0514/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/23A91A0514/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/23A91A0514/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/23A91A0514/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/23A91A0514/Leetcode/tree/master/0137-single-number-ii) |
@@ -637,6 +639,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/23A91A0514/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/23A91A0514/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/23A91A0514/Leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/23A91A0514/Leetcode/tree/master/0401-binary-watch) |
