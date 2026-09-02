@@ -277,6 +277,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/23A91A0514/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/23A91A0514/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23A91A0514/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -613,6 +614,7 @@
 | [0605-can-place-flowers](https://github.com/23A91A0514/Leetcode/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/23A91A0514/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/23A91A0514/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0514/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0514/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/23A91A0514/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
