@@ -298,6 +298,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23A91A0514/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/23A91A0514/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/23A91A0514/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/23A91A0514/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -685,6 +686,7 @@
 | [2485-find-the-pivot-integer](https://github.com/23A91A0514/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/23A91A0514/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23A91A0514/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/23A91A0514/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## String Matching
 |  |
 | ------- |
