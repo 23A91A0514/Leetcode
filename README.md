@@ -189,6 +189,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/23A91A0514/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/23A91A0514/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/23A91A0514/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/23A91A0514/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/23A91A0514/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0054-spiral-matrix) |
@@ -653,6 +654,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/23A91A0514/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/23A91A0514/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/23A91A0514/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/23A91A0514/Leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/23A91A0514/Leetcode/tree/master/0257-binary-tree-paths) |
