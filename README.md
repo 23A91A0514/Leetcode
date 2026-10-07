@@ -54,6 +54,7 @@
 | [1768-merge-strings-alternately](https://github.com/23A91A0514/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/23A91A0514/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23A91A0514/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/23A91A0514/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1859-sorting-the-sentence](https://github.com/23A91A0514/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23A91A0514/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -167,6 +168,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/23A91A0514/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/23A91A0514/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/23A91A0514/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/2235-add-two-integers) |
