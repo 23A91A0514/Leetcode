@@ -54,6 +54,7 @@
 | [1768-merge-strings-alternately](https://github.com/23A91A0514/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/23A91A0514/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23A91A0514/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1859-sorting-the-sentence](https://github.com/23A91A0514/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23A91A0514/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -367,6 +368,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/23A91A0514/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/23A91A0514/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/23A91A0514/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/23A91A0514/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -835,4 +837,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/23A91A0514/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/23A91A0514/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
