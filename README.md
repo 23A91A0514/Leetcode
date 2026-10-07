@@ -50,6 +50,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23A91A0514/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0514/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1598-crawler-log-folder](https://github.com/23A91A0514/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/23A91A0514/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/23A91A0514/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/23A91A0514/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -418,6 +419,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0514/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/23A91A0514/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23A91A0514/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
