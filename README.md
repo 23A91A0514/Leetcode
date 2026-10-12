@@ -143,6 +143,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/23A91A0514/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/23A91A0514/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/23A91A0514/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/23A91A0514/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/23A91A0514/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/23A91A0514/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
@@ -397,6 +398,7 @@
 | [0190-reverse-bits](https://github.com/23A91A0514/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/23A91A0514/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0514/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/23A91A0514/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/23A91A0514/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/23A91A0514/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23A91A0514/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -619,6 +621,7 @@
 | [0050-powx-n](https://github.com/23A91A0514/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/23A91A0514/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/23A91A0514/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/23A91A0514/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/23A91A0514/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/23A91A0514/Leetcode/tree/master/0342-power-of-four) |
