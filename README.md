@@ -100,6 +100,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/23A91A0514/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/23A91A0514/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/23A91A0514/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/23A91A0514/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -159,6 +160,7 @@
 | [0504-base-7](https://github.com/23A91A0514/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/23A91A0514/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/23A91A0514/Leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/23A91A0514/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -247,6 +249,7 @@
 | [0500-keyboard-row](https://github.com/23A91A0514/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/23A91A0514/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/23A91A0514/Leetcode/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/23A91A0514/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/23A91A0514/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -720,6 +723,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/23A91A0514/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/23A91A0514/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/23A91A0514/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/23A91A0514/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -864,4 +868,8 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/23A91A0514/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/23A91A0514/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
