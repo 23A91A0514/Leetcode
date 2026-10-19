@@ -305,6 +305,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/23A91A0514/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/23A91A0514/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/23A91A0514/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/23A91A0514/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -389,6 +390,7 @@
 | [1859-sorting-the-sentence](https://github.com/23A91A0514/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/23A91A0514/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0514/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/23A91A0514/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/23A91A0514/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23A91A0514/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0514/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -480,6 +482,7 @@
 | [0704-binary-search](https://github.com/23A91A0514/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0514/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/23A91A0514/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/23A91A0514/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0514/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23A91A0514/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3488-closest-equal-element-queries](https://github.com/23A91A0514/Leetcode/tree/master/3488-closest-equal-element-queries) |
