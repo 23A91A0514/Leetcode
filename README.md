@@ -64,6 +64,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23A91A0514/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0514/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/23A91A0514/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2409-count-days-spent-together](https://github.com/23A91A0514/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/23A91A0514/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0514/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23A91A0514/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -182,6 +183,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/23A91A0514/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0514/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/23A91A0514/Leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/23A91A0514/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/23A91A0514/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/23A91A0514/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/23A91A0514/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
