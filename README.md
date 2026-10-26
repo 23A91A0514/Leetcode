@@ -282,6 +282,7 @@
 | [0819-most-common-word](https://github.com/23A91A0514/Leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/23A91A0514/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/23A91A0514/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/23A91A0514/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0912-sort-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/23A91A0514/Leetcode/tree/master/1288-remove-covered-intervals) |
