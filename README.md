@@ -169,6 +169,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/23A91A0514/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/23A91A0514/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/23A91A0514/Leetcode/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/23A91A0514/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23A91A0514/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -505,6 +506,7 @@
 | [0392-is-subsequence](https://github.com/23A91A0514/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/23A91A0514/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0514/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/23A91A0514/Leetcode/tree/master/1025-divisor-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0514/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/23A91A0514/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
@@ -726,10 +728,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/23A91A0514/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/23A91A0514/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/23A91A0514/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/23A91A0514/Leetcode/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -889,4 +893,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/23A91A0514/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/23A91A0514/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
