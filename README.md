@@ -287,6 +287,7 @@
 | [0875-koko-eating-bananas](https://github.com/23A91A0514/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/23A91A0514/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0912-sort-an-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/23A91A0514/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1266-minimum-time-visiting-all-points](https://github.com/23A91A0514/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/23A91A0514/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/23A91A0514/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -393,6 +394,7 @@
 | [0645-set-mismatch](https://github.com/23A91A0514/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/23A91A0514/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/23A91A0514/Leetcode/tree/master/0912-sort-an-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/23A91A0514/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/23A91A0514/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/23A91A0514/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/23A91A0514/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -676,6 +678,7 @@
 | [0561-array-partition](https://github.com/23A91A0514/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/23A91A0514/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/23A91A0514/Leetcode/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/23A91A0514/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/23A91A0514/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1448-maximum-69-number](https://github.com/23A91A0514/Leetcode/tree/master/1448-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/23A91A0514/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
